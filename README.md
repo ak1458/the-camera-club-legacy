@@ -1,20 +1,9 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)
-
-### Stack
-
-Legacy Codebase • Archive
-
-### Local development
-
-Check the `CONTRIBUTING.md` file for details on how to set up the project locally and start contributing.
-
----
+[![Archive](https://img.shields.io/badge/Status-Archived-lightgrey)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ﻿# ðŸš€ The Camera Club Legacy
 
 Original legacy source code archive for The Camera Club platform. Preserved for historical reference.
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)
 
 ## ðŸŒŸ Features
 * Comprehensive implementation tailored for modern standards.

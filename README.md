@@ -1,5 +1,10 @@
 # The Camera Club · Archive
 
+[![Stars](https://img.shields.io/github/stars/ak1458/the-camera-club-legacy?style=flat-square)](https://github.com/ak1458/the-camera-club-legacy/stargazers)
+[![Watching](https://img.shields.io/github/watchers/ak1458/the-camera-club-legacy?style=flat-square)](https://github.com/ak1458/the-camera-club-legacy/watchers)
+[![Forks](https://img.shields.io/github/forks/ak1458/the-camera-club-legacy?style=flat-square)](https://github.com/ak1458/the-camera-club-legacy/forks)
+[![Activity](https://img.shields.io/github/last-commit/ak1458/the-camera-club-legacy?style=flat-square)](https://github.com/ak1458/the-camera-club-legacy/activity)
+
 The current default-branch tree contains policy and README files only. It does not contain the application source described by the earlier archive blurb.
 
 [![Status: Archived](https://img.shields.io/badge/Status-Archived-64748b?style=flat-square)](https://github.com/ak1458/the-camera-club-legacy)
